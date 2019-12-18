@@ -1,2 +1,3 @@
-# git-lessons
+# Git Lessons
+
 Instructions and example code for learning Git.
